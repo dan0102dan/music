@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/music/static/css/main.33cf249a.chunk.css",
+    "main.css": "/music/static/css/main.113a7f98.chunk.css",
     "main.js": "/music/static/js/main.59bd53ec.chunk.js",
     "main.js.map": "/music/static/js/main.59bd53ec.chunk.js.map",
     "runtime-main.js": "/music/static/js/runtime-main.01faecc1.js",
@@ -9,10 +9,10 @@
     "static/js/2.e9c95da0.chunk.js": "/music/static/js/2.e9c95da0.chunk.js",
     "static/js/2.e9c95da0.chunk.js.map": "/music/static/js/2.e9c95da0.chunk.js.map",
     "index.html": "/music/index.html",
-    "precache-manifest.8b36bfaa5102a1a65fc9ecf300786230.js": "/music/precache-manifest.8b36bfaa5102a1a65fc9ecf300786230.js",
+    "precache-manifest.cf7500f999df660b1053aee904d1dd0a.js": "/music/precache-manifest.cf7500f999df660b1053aee904d1dd0a.js",
     "service-worker.js": "/music/service-worker.js",
     "static/css/2.1e562f28.chunk.css.map": "/music/static/css/2.1e562f28.chunk.css.map",
-    "static/css/main.33cf249a.chunk.css.map": "/music/static/css/main.33cf249a.chunk.css.map",
+    "static/css/main.113a7f98.chunk.css.map": "/music/static/css/main.113a7f98.chunk.css.map",
     "static/js/2.e9c95da0.chunk.js.LICENSE.txt": "/music/static/js/2.e9c95da0.chunk.js.LICENSE.txt",
     "static/media/AppleMusic.svg": "/music/static/media/AppleMusic.f0eea4f0.svg",
     "static/media/Spotify.svg": "/music/static/media/Spotify.30c92f61.svg",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.01faecc1.js",
     "static/css/2.1e562f28.chunk.css",
     "static/js/2.e9c95da0.chunk.js",
-    "static/css/main.33cf249a.chunk.css",
+    "static/css/main.113a7f98.chunk.css",
     "static/js/main.59bd53ec.chunk.js"
   ]
 }
