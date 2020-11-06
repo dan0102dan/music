@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/music/static/css/main.376f9de9.chunk.css",
-    "main.js": "/music/static/js/main.c5ec2032.chunk.js",
-    "main.js.map": "/music/static/js/main.c5ec2032.chunk.js.map",
+    "main.css": "/music/static/css/main.1d84d0c0.chunk.css",
+    "main.js": "/music/static/js/main.0575f731.chunk.js",
+    "main.js.map": "/music/static/js/main.0575f731.chunk.js.map",
     "runtime-main.js": "/music/static/js/runtime-main.01faecc1.js",
     "runtime-main.js.map": "/music/static/js/runtime-main.01faecc1.js.map",
     "static/css/2.1e562f28.chunk.css": "/music/static/css/2.1e562f28.chunk.css",
-    "static/js/2.91257f82.chunk.js": "/music/static/js/2.91257f82.chunk.js",
-    "static/js/2.91257f82.chunk.js.map": "/music/static/js/2.91257f82.chunk.js.map",
+    "static/js/2.89c81d79.chunk.js": "/music/static/js/2.89c81d79.chunk.js",
+    "static/js/2.89c81d79.chunk.js.map": "/music/static/js/2.89c81d79.chunk.js.map",
     "index.html": "/music/index.html",
-    "precache-manifest.f2edd63d01d00e1b533c79b2a5bf1745.js": "/music/precache-manifest.f2edd63d01d00e1b533c79b2a5bf1745.js",
+    "precache-manifest.37b5996a251c000bf67cf443b3b45bdd.js": "/music/precache-manifest.37b5996a251c000bf67cf443b3b45bdd.js",
     "service-worker.js": "/music/service-worker.js",
     "static/css/2.1e562f28.chunk.css.map": "/music/static/css/2.1e562f28.chunk.css.map",
-    "static/css/main.376f9de9.chunk.css.map": "/music/static/css/main.376f9de9.chunk.css.map",
-    "static/js/2.91257f82.chunk.js.LICENSE.txt": "/music/static/js/2.91257f82.chunk.js.LICENSE.txt",
-    "static/media/AppleMusic.svg": "/music/static/media/AppleMusic.f0eea4f0.svg",
-    "static/media/Spotify.svg": "/music/static/media/Spotify.30c92f61.svg",
+    "static/css/main.1d84d0c0.chunk.css.map": "/music/static/css/main.1d84d0c0.chunk.css.map",
+    "static/js/2.89c81d79.chunk.js.LICENSE.txt": "/music/static/js/2.89c81d79.chunk.js.LICENSE.txt",
+    "static/media/AppleMusic.svg": "/music/static/media/AppleMusic.c537ae47.svg",
+    "static/media/Spotify.svg": "/music/static/media/Spotify.e359ad39.svg",
     "static/media/Yandex.svg": "/music/static/media/Yandex.61edbdaa.svg",
     "static/media/ava.png": "/music/static/media/ava.d549df08.png"
   },
   "entrypoints": [
     "static/js/runtime-main.01faecc1.js",
     "static/css/2.1e562f28.chunk.css",
-    "static/js/2.91257f82.chunk.js",
-    "static/css/main.376f9de9.chunk.css",
-    "static/js/main.c5ec2032.chunk.js"
+    "static/js/2.89c81d79.chunk.js",
+    "static/css/main.1d84d0c0.chunk.css",
+    "static/js/main.0575f731.chunk.js"
   ]
 }
