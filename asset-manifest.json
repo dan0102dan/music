@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/music/static/css/main.7159eea6.chunk.css",
-    "main.js": "/music/static/js/main.4670139b.chunk.js",
-    "main.js.map": "/music/static/js/main.4670139b.chunk.js.map",
+    "main.css": "/music/static/css/main.a399fcca.chunk.css",
+    "main.js": "/music/static/js/main.dc34dd3e.chunk.js",
+    "main.js.map": "/music/static/js/main.dc34dd3e.chunk.js.map",
     "runtime-main.js": "/music/static/js/runtime-main.01faecc1.js",
     "runtime-main.js.map": "/music/static/js/runtime-main.01faecc1.js.map",
     "static/css/2.1e562f28.chunk.css": "/music/static/css/2.1e562f28.chunk.css",
     "static/js/2.265afa56.chunk.js": "/music/static/js/2.265afa56.chunk.js",
     "static/js/2.265afa56.chunk.js.map": "/music/static/js/2.265afa56.chunk.js.map",
     "index.html": "/music/index.html",
-    "precache-manifest.6ba69885815d985c3d096ca7a228fb44.js": "/music/precache-manifest.6ba69885815d985c3d096ca7a228fb44.js",
+    "precache-manifest.407f11c58dafd896f879862aa624a121.js": "/music/precache-manifest.407f11c58dafd896f879862aa624a121.js",
     "service-worker.js": "/music/service-worker.js",
     "static/css/2.1e562f28.chunk.css.map": "/music/static/css/2.1e562f28.chunk.css.map",
-    "static/css/main.7159eea6.chunk.css.map": "/music/static/css/main.7159eea6.chunk.css.map",
+    "static/css/main.a399fcca.chunk.css.map": "/music/static/css/main.a399fcca.chunk.css.map",
     "static/js/2.265afa56.chunk.js.LICENSE.txt": "/music/static/js/2.265afa56.chunk.js.LICENSE.txt",
     "static/media/AppleMusic.svg": "/music/static/media/AppleMusic.cd5eac42.svg",
     "static/media/Spotify.svg": "/music/static/media/Spotify.e359ad39.svg",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.01faecc1.js",
     "static/css/2.1e562f28.chunk.css",
     "static/js/2.265afa56.chunk.js",
-    "static/css/main.7159eea6.chunk.css",
-    "static/js/main.4670139b.chunk.js"
+    "static/css/main.a399fcca.chunk.css",
+    "static/js/main.dc34dd3e.chunk.js"
   ]
 }
