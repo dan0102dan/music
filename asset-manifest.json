@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/music/static/css/main.ad0faca7.chunk.css",
-    "main.js": "/music/static/js/main.be1dcea4.chunk.js",
+    "main.css": "/music/static/css/main.ae0f6823.chunk.css",
+    "main.js": "/music/static/js/main.3f1e2b49.chunk.js",
     "runtime-main.js": "/music/static/js/runtime-main.01faecc1.js",
     "static/css/2.62385eee.chunk.css": "/music/static/css/2.62385eee.chunk.css",
-    "static/js/2.4d046a3f.chunk.js": "/music/static/js/2.4d046a3f.chunk.js",
+    "static/js/2.4ed1a545.chunk.js": "/music/static/js/2.4ed1a545.chunk.js",
     "index.html": "/music/index.html",
-    "precache-manifest.f2e0cb05bb609ddf724c6df7a942f92f.js": "/music/precache-manifest.f2e0cb05bb609ddf724c6df7a942f92f.js",
+    "precache-manifest.1e81f94760a8be10e60dc9ac49bd3d27.js": "/music/precache-manifest.1e81f94760a8be10e60dc9ac49bd3d27.js",
     "service-worker.js": "/music/service-worker.js",
-    "static/js/2.4d046a3f.chunk.js.LICENSE.txt": "/music/static/js/2.4d046a3f.chunk.js.LICENSE.txt",
+    "static/js/2.4ed1a545.chunk.js.LICENSE.txt": "/music/static/js/2.4ed1a545.chunk.js.LICENSE.txt",
     "static/media/AppleMusic.svg": "/music/static/media/AppleMusic.cd5eac42.svg",
     "static/media/Spotify.svg": "/music/static/media/Spotify.e359ad39.svg",
     "static/media/Yandex.svg": "/music/static/media/Yandex.deac2f88.svg",
@@ -18,8 +18,8 @@
   "entrypoints": [
     "static/js/runtime-main.01faecc1.js",
     "static/css/2.62385eee.chunk.css",
-    "static/js/2.4d046a3f.chunk.js",
-    "static/css/main.ad0faca7.chunk.css",
-    "static/js/main.be1dcea4.chunk.js"
+    "static/js/2.4ed1a545.chunk.js",
+    "static/css/main.ae0f6823.chunk.css",
+    "static/js/main.3f1e2b49.chunk.js"
   ]
 }
