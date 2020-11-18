@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/release/static/css/main.3c30cfb9.chunk.css",
-    "main.js": "/release/static/js/main.4cff7ad8.chunk.js",
-    "runtime-main.js": "/release/static/js/runtime-main.24eff8f7.js",
-    "static/css/2.62385eee.chunk.css": "/release/static/css/2.62385eee.chunk.css",
-    "static/js/2.0acbe37d.chunk.js": "/release/static/js/2.0acbe37d.chunk.js",
-    "index.html": "/release/index.html",
-    "precache-manifest.3511258bf6162f0e0f489c4d8ae41ea7.js": "/release/precache-manifest.3511258bf6162f0e0f489c4d8ae41ea7.js",
-    "service-worker.js": "/release/service-worker.js",
-    "static/js/2.0acbe37d.chunk.js.LICENSE.txt": "/release/static/js/2.0acbe37d.chunk.js.LICENSE.txt",
-    "static/media/AppleMusic.svg": "/release/static/media/AppleMusic.cd5eac42.svg",
-    "static/media/Spotify.svg": "/release/static/media/Spotify.e359ad39.svg",
-    "static/media/Yandex.svg": "/release/static/media/Yandex.deac2f88.svg",
-    "static/media/ava.png": "/release/static/media/ava.d549df08.png",
-    "static/media/empty.svg": "/release/static/media/empty.0b939708.svg",
-    "static/media/error.png": "/release/static/media/error.6dd30fb5.png"
+    "main.css": "/music/static/css/main.3c30cfb9.chunk.css",
+    "main.js": "/music/static/js/main.57220795.chunk.js",
+    "runtime-main.js": "/music/static/js/runtime-main.01faecc1.js",
+    "static/css/2.62385eee.chunk.css": "/music/static/css/2.62385eee.chunk.css",
+    "static/js/2.2ef97e60.chunk.js": "/music/static/js/2.2ef97e60.chunk.js",
+    "index.html": "/music/index.html",
+    "precache-manifest.3c9800238493bfb8aee38be3e978e06d.js": "/music/precache-manifest.3c9800238493bfb8aee38be3e978e06d.js",
+    "service-worker.js": "/music/service-worker.js",
+    "static/js/2.2ef97e60.chunk.js.LICENSE.txt": "/music/static/js/2.2ef97e60.chunk.js.LICENSE.txt",
+    "static/media/AppleMusic.svg": "/music/static/media/AppleMusic.cd5eac42.svg",
+    "static/media/Spotify.svg": "/music/static/media/Spotify.e359ad39.svg",
+    "static/media/Yandex.svg": "/music/static/media/Yandex.deac2f88.svg",
+    "static/media/ava.png": "/music/static/media/ava.d549df08.png",
+    "static/media/empty.svg": "/music/static/media/empty.0b939708.svg",
+    "static/media/error.png": "/music/static/media/error.6dd30fb5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.24eff8f7.js",
+    "static/js/runtime-main.01faecc1.js",
     "static/css/2.62385eee.chunk.css",
-    "static/js/2.0acbe37d.chunk.js",
+    "static/js/2.2ef97e60.chunk.js",
     "static/css/main.3c30cfb9.chunk.css",
-    "static/js/main.4cff7ad8.chunk.js"
+    "static/js/main.57220795.chunk.js"
   ]
 }
