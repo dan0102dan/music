@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/newRelease/static/css/main.3c30cfb9.chunk.css",
-    "main.js": "/newRelease/static/js/main.4cff7ad8.chunk.js",
-    "runtime-main.js": "/newRelease/static/js/runtime-main.c8009a28.js",
-    "static/css/2.62385eee.chunk.css": "/newRelease/static/css/2.62385eee.chunk.css",
-    "static/js/2.63d7e141.chunk.js": "/newRelease/static/js/2.63d7e141.chunk.js",
-    "index.html": "/newRelease/index.html",
-    "precache-manifest.10cd5cb3a58d3bb4a342ecdce84e5327.js": "/newRelease/precache-manifest.10cd5cb3a58d3bb4a342ecdce84e5327.js",
-    "service-worker.js": "/newRelease/service-worker.js",
-    "static/js/2.63d7e141.chunk.js.LICENSE.txt": "/newRelease/static/js/2.63d7e141.chunk.js.LICENSE.txt",
-    "static/media/AppleMusic.svg": "/newRelease/static/media/AppleMusic.cd5eac42.svg",
-    "static/media/Spotify.svg": "/newRelease/static/media/Spotify.e359ad39.svg",
-    "static/media/Yandex.svg": "/newRelease/static/media/Yandex.deac2f88.svg",
-    "static/media/ava.png": "/newRelease/static/media/ava.d549df08.png",
-    "static/media/empty.svg": "/newRelease/static/media/empty.0b939708.svg",
-    "static/media/error.png": "/newRelease/static/media/error.6dd30fb5.png"
+    "main.css": "/newrelease/static/css/main.3c30cfb9.chunk.css",
+    "main.js": "/newrelease/static/js/main.4cff7ad8.chunk.js",
+    "runtime-main.js": "/newrelease/static/js/runtime-main.63d072b3.js",
+    "static/css/2.62385eee.chunk.css": "/newrelease/static/css/2.62385eee.chunk.css",
+    "static/js/2.db9424a7.chunk.js": "/newrelease/static/js/2.db9424a7.chunk.js",
+    "index.html": "/newrelease/index.html",
+    "precache-manifest.c994fce30c83ccb49bb092d6fb0fface.js": "/newrelease/precache-manifest.c994fce30c83ccb49bb092d6fb0fface.js",
+    "service-worker.js": "/newrelease/service-worker.js",
+    "static/js/2.db9424a7.chunk.js.LICENSE.txt": "/newrelease/static/js/2.db9424a7.chunk.js.LICENSE.txt",
+    "static/media/AppleMusic.svg": "/newrelease/static/media/AppleMusic.cd5eac42.svg",
+    "static/media/Spotify.svg": "/newrelease/static/media/Spotify.e359ad39.svg",
+    "static/media/Yandex.svg": "/newrelease/static/media/Yandex.deac2f88.svg",
+    "static/media/ava.png": "/newrelease/static/media/ava.d549df08.png",
+    "static/media/empty.svg": "/newrelease/static/media/empty.0b939708.svg",
+    "static/media/error.png": "/newrelease/static/media/error.6dd30fb5.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8009a28.js",
+    "static/js/runtime-main.63d072b3.js",
     "static/css/2.62385eee.chunk.css",
-    "static/js/2.63d7e141.chunk.js",
+    "static/js/2.db9424a7.chunk.js",
     "static/css/main.3c30cfb9.chunk.css",
     "static/js/main.4cff7ad8.chunk.js"
   ]
